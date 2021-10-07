@@ -1,0 +1,27 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API creada con express, y la misma se encarga de gestionar todas las rutas para cada acción",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelram/ecommerce-angular-node.git"
+  },
+  "keywords": [
+    "e-commerce",
+    "angular",
+    "node"
+  ],
+  "author": "Israel Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israelram/ecommerce-angular-node/issues"
+  },
+  "homepage": "https://github.com/israelram/ecommerce-angular-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
